@@ -1,0 +1,24 @@
+{
+  "name": "my_first_codeceptjs",
+  "version": "1.0.0",
+  "description": "Studing Code Codecept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato-poliveira/my_first_codeceptjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renato-poliveira/my_first_codeceptjs/issues"
+  },
+  "homepage": "https://github.com/renato-poliveira/my_first_codeceptjs#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.0.7",
+    "puppeteer": "^10.2.0"
+  }
+}
